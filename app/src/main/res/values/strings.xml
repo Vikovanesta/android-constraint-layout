@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Homepage</string>
+    <string name="buy_airtime">Buy airtime</string>
+    <string name="buy_airtime_desc">Top-up or Send airtime across Countries</string>
+    <string name="pay_bill">Pay bill</string>
+    <string name="pay_bill_desc">Zero transactions fees when you pay</string>
+    <string name="request_money">Request money</string>
+    <string name="request_money_desc">Request money from Cowry Loans</string>
+    <string name="pay_money">Pay money</string>
+    <string name="pay_money_desc">To wallet, bank or mobile number</string>
 </resources>
