@@ -8,4 +8,6 @@
     <string name="request_money_desc">Request money from Cowry Loans</string>
     <string name="pay_money">Pay money</string>
     <string name="pay_money_desc">To wallet, bank or mobile number</string>
+    <string name="greeting">Hi Clarencce,</string>
+    <string name="money_amount">5,600.00</string>
 </resources>
